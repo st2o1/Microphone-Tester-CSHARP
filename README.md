@@ -1,2 +1,2 @@
 # Microphone-Tester-Visual-Studio-2022
-Test Microphone C#
+Test Microphone C# using NAudio Library.
